@@ -1,0 +1,3 @@
+DemonSlayerEltreninfinito,liberada,2000000,1,M,2,T
+VenomCarnageliberado,estreno,3500000,2,M,1,T
+Caroline,liberada,60000,3,M,3,T
